@@ -1,30 +1,21 @@
-- *<h2 align=center> HEY! 😄 Welcome to my GitHub! &nbsp; <img align=center src="assets/gifs/alienpls.gif" height="60" /> </h3>*
+ *<h2 align=center> HEY! 😄 Welcome to my GitHub! &nbsp; <img align=center src="assets/gifs/alienpls.gif" height="60" /> </h3>*
 
   <h4 align=center>I'm still a Junior Coder, so... there's a lot of zeroes in my stats... BUT, someday I'm gonna have a "S" GitHub acc!</h4>
   <p align=center><s>Working hard</s></p>
   <p align=center><img src="assets/gifs/coderestcatever.gif" height="175" /></p>
 
   
-
   <p align=center>
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahiro7&show_icons=true&theme=bear&custom_title=Mahiro's+GitHub+Stats" />
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiro7&layout=compact&theme=bear&hide=html" />
   </p>
   <p>
-    <img align="right" height="120" src="https://github-profile-trophy.vercel.app/?username=mahiro7&theme=onedark&no-frame=true&rank=SECRET,AAA,AA,A,B,C" />
+    <img align="right" height="107" src="https://github-profile-trophy.vercel.app/?username=mahiro7&theme=onedark&no-frame=true&rank=SECRET,AAA,AA,A,B,C" />
   </p>
-
   
-
+  <br><br><br><br><br><br><br>
   
-
-  
-
-  
-
   ---
-
-  
 
   ## ✨ Projects <img align=center src="assets/gifs/bongochibi.gif" height="77" />
 
@@ -39,14 +30,18 @@
 
   Just a guy who likes to beat his brains out with puzzles and problems
 
-  <img align=left src="assets/gifs/bug.gif" />
-
+  <p>
+    <img align=left src="assets/gifs/bug.gif" />
+    <img align=center height="200" src="assets/gifs/delete.gif" />
+  </p>
+  
+  <div>
   and........
 
   <p align="center"><b>a guy who loves ✨🐾✨ animals ✨🐾✨</b></p>
 
   <img align=center src="assets/gifs/nya.gif" />
-
+  </div>
   
 
   
