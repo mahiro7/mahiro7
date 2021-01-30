@@ -35,14 +35,14 @@
     <img align=center height="200" src="assets/gifs/delete.gif" />
   </p>
   
-  <div>
+  <br><br><br><br><br><br><br><br><br><br><br><br>
   and........
 
   <p align="center"><b>a guy who loves ✨🐾✨ animals ✨🐾✨</b></p>
 
-  <img align=center src="assets/gifs/nya.gif" />
-  </div>
-  
+  <p align="center">
+    <img src="assets/gifs/nya.gif" />
+  </p>
 
   
 
