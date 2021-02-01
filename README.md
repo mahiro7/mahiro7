@@ -1,6 +1,6 @@
  *<h2 align=center> HEY! 😄 Welcome to my GitHub! &nbsp; <img align=center src="assets/gifs/alienpls.gif" height="60" /> </h3>*
 
-  <h4 align=center>I'm still a Junior Coder, so... there's a lot of zeroes in my stats... BUT, someday I'm gonna have a "S" GitHub acc!</h4>
+  <h4 align=center>I'm still a Junior Coder, so... there're a lot of zeroes in my stats... BUT, someday I'm gonna have a "S" GitHub acc!</h4>
   <p align=center><s>Working hard</s></p>
   <p align=center><img src="assets/gifs/coderestcatever.gif" height="175" /></p>
 
