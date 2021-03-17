@@ -26,7 +26,7 @@
 
   
 
-  ## 👁👅👁 Who am I? <img align="center" src="assets/gifs/celtime.gif" height="77" />
+  ## ✨ Who am I? <img align="center" src="assets/gifs/celtime.gif" height="77" />
 
   Just a guy who likes to beat his brains out with puzzles and problems
 
