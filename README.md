@@ -7,7 +7,7 @@
   
   <p align=center>
     <img height="160" src="https://github-readme-stats.vercel.app/api?username=mahiro7&show_icons=true&theme=bear&custom_title=Mahiro's+GitHub+Stats" />
-    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiro7&layout=compact&theme=bear&hide=html,css" />
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiro7&layout=compact&theme=bear&hide=html,css,php" />
   </p>
   <p align=center>
     <img align=right src="https://github-profile-trophy.vercel.app/?username=mahiro7&theme=onedark&no-frame=true&rank=SECRET,AAA,AA,A,B,C" />
