@@ -20,7 +20,7 @@
   ## ✨ Projects <img align=center src="assets/gifs/bongochibi.gif" height="77" />
 
   #### I'm currently learning Elixir and, for practicing's sake, working on this: 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahiro7&repo=elixir-tetris-project&theme=bear)](https://github.com/mahiro7/elixir-tetris-project)	<img height="120" align="left" src="assets/gifs/ubettawerk.webp" />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahiro7&repo=inmana&theme=bear)](https://github.com/mahiro7/inmana)	<img height="120" align="left" src="assets/gifs/ubettawerk.webp" />
 
   
 
