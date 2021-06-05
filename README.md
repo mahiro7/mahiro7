@@ -22,12 +22,51 @@
   #### I'm currently learning Elixir and, for practicing's sake, working on this: 
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mahiro7&repo=survfy&theme=bear)](https://github.com/mahiro7/survfy)	<img height="120" align="left" src="assets/gifs/ubettawerk.webp" />
   
+  
+  <br><br>
 
   
 
   
 
-  ## ✨ Who am I? <img align="center" src="assets/gifs/celtime.gif" height="77" />
+  
+  ## ✨ Who am I? <img align="center" src="assets/png/widepeepoHappy.png" height="77" />
+
+  I'm a Junior developer at Nutrimais Franchising, a company in the agribusiness area in the interior of São Paulo.
+  I work with JavaScript full-stack:
+
+  #### :computer: Technologies I work with: 
+  JavaScrip | Node.JS | Express | TypeScript | React | React Native | HTML | CSS | Firebase | MongoDB
+  ----------|---------|---------|------------|-------|--------------|------|-----|----------|--------
+  
+  👀 Well... as you can see on my "Most used languages", I am an aspiring Elixir dev.
+  
+  #### 🔰 Other languages I've worked with before, but I don't have industry experience:
+  PHP | Java | C | Python | C# | Arduino
+  ----|------|---|--------|----|--------
+  
+  
+  <br><br>
+    
+
+  
+
+  
+  ## ✨ Random curiosity! <img align="center" src="assets/gifs/coggers.gif" height="77" />
+  
+   <p>🔰 This emoji means "beginner/novice" in Japanese, it's mainly used as a sticker on the car of a driver in his first year as driver.</p>
+   <p>Even knowing I'll never stop learning, I like to use it as Junior Coder.<br>
+   I'm not gonna skip steps in my career and I'll enjoy every single step.</p>
+   
+   
+   <br><br>
+
+
+  
+
+  
+
+  ## ✨More about me: <img align="center" src="assets/gifs/celtime.gif" height="77" />
 
   Just a guy who likes to beat his brains out with puzzles and problems
 
