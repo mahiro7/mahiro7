@@ -30,7 +30,7 @@
   
 
   
-  ## ✨ Who am I? <img align="center" src="assets/widepeepoHappy.png" height="77" />
+  ## ✨ Who am I? <img align="center" src="assets/widepeepoHappy.png" height="50" />
 
   I'm a Junior developer at Nutrimais Franchising, a company in the agribusiness area in the interior of São Paulo.
   I work with JavaScript full-stack:
