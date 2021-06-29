@@ -10,6 +10,9 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahiro7&layout=compact&theme=bear&hide=html,css" />
   </p>
   <p align=center>
+    <img height="160" src="https://github-readme-stats.vercel.app/api/wakatime?username=mahiro7&theme=bear" />
+  </p>
+  <p align=center>
     <img align=right src="https://github-profile-trophy.vercel.app/?username=mahiro7&theme=onedark&no-frame=true&rank=SECRET,AAA,AA,A,B,C" />
   </p>
   
